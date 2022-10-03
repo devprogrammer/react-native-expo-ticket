@@ -1,32 +1,31 @@
-## biletin - Etkinlik Biletleri Satın Alma Mobil Uygulaması
+## your ticket - Mobile App for Buying Event Tickets
 
-**React Native** kullanarak yazmış olduğum uygulamayı inceleyebilirsiniz.
+**React Native** You can review the application I wrote using
 
-> Google Firebase tercih ederek kullanıcının giriş veya kayıt olmasını sağladım. Aynı zamanda eventleri de firebase üzerinden kontrol ediyorum.
+> By choosing Google Firebase, I enabled the user to login or register. At the same time, I control events via firebase.
 
 ![](https://i.hizliresim.com/jalua8c.png)
 
-> Kullanıcı etkileşimli ve yenilikçi mobil uygulama oluşturmaya özen gösterdim.
+> I took care to create user-interactive and innovative mobile applications.
 
 ![](https://i.hizliresim.com/ij6q00q.gif)
 
-> Satın alınan koltukları farklı bir kullanıcı tekrardan satın alamıyor.
+> A different user cannot re-purchase the purchased seats.
 
 ![](https://i.hizliresim.com/2a5h7wk.gif)
 
-> Kullanıcı bilgilerini istediği zaman düzenleyebiliyor , satın aldığı ve favorilerine eklediği etkinlikleri görebiliyor.
+> The user can edit their information at any time, see the events they have purchased and added to their favourites.
 
 ![](https://i.hizliresim.com/oafgflt.gif)
 
-> Bilet satın alındığı zaman kullancıya bilet id numarasına göre QR kodu veriliyor ve istediği zaman biletine ulaşabiliyor.
+> When the ticket is purchased, the user is given a QR code according to the ticket ID number and can access the ticket at any time.
 
 ![](https://i.hizliresim.com/oemhvym.gif)
 
-> Etkinlikler arasında isim ve konumuna göre arama yapılabiliyor.
+> You can search among events by name and location.
 
-> " biletin " adını konseptime uygun olması için kullandım , logosunu kendim oluşturdum ve herhangi bir şirketi baz almadım.
+> I used the name of the "ticket" to fit my concept, I created the logo myself.
 
-#### Projeyi çalıştırmak için
 
 ```bash
 
